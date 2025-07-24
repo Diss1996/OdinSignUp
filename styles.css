@@ -19,7 +19,7 @@ body{
 .logoSection{
     height: 100%;
     flex: 4;   /* flex 4 = 40% of screen */
-    background-image: url("/images/background.jpg");
+    background-image: url("images/background.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
